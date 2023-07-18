@@ -1,6 +1,6 @@
 {
-  "name": "passport-appleid",
-  "version": "1.0.5",
+  "name": "@longtd3012/passport-appleid",
+  "version": "1.0.0",
   "description": "Apple authentication strategy for Passport.",
   "main": "./lib",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Techofficer/passport-apple.git"
+    "url": "git://github.com/nhech/passport-apple.git"
   },
   "keywords": [
     "apple",
@@ -22,20 +22,13 @@
     "email": "efremov.artserg@gmail.com",
     "url": "https://gotechmakers.com"
   },
-  "license": "MIT",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/MIT"
-    }
-  ],
   "bugs": {
-    "url": "https://github.com/Techofficer/passport-apple/issues"
+    "url": "https://github.com/nhech/passport-apple/issues"
   },
-  "homepage": "https://github.com/Techofficer/passport-apple#readme",
+  "homepage": "https://github.com/nhech/passport-apple#readme",
   "dependencies": {
-    "apple-signin": "^1.0.9",
-    "passport-oauth2": "^1.5.0"
+    "apple-signin-auth": "^1.7.5",
+    "passport-oauth2": "^1.7.0"
   },
   "devDependencies": {
     "chai": "2.x.x",
