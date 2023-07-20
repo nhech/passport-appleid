@@ -1,6 +1,6 @@
 {
   "name": "@longtd3012/passport-appleid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Apple authentication strategy for Passport.",
   "main": "./lib",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nhech/passport-apple.git"
+    "url": "git://github.com/nhech/passport-appleid.git"
   },
   "keywords": [
     "apple",
@@ -23,9 +23,9 @@
     "url": "https://gotechmakers.com"
   },
   "bugs": {
-    "url": "https://github.com/nhech/passport-apple/issues"
+    "url": "https://github.com/nhech/passport-appleid/issues"
   },
-  "homepage": "https://github.com/nhech/passport-apple#readme",
+  "homepage": "https://github.com/nhech/passport-appleid#readme",
   "dependencies": {
     "apple-signin-auth": "^1.7.5",
     "passport-oauth2": "^1.5.0"
