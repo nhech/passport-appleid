@@ -1,6 +1,6 @@
 {
   "name": "@longtd3012/passport-appleid",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Apple authentication strategy for Passport.",
   "main": "./lib",
   "scripts": {
