@@ -33,7 +33,7 @@ passport.use(new AppleStrategy({
     callbackURL: 'https://www.example.net/auth/apple/callback',
     teamId: APPLE_TEAM_ID,
     keyIdentifier: 'RB1233456',
-    keyIdentifier: '',
+    privateKey: ''
   }, 
   function(accessToken, refreshToken, profile, done) {
     const id = profile.id;
